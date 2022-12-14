@@ -12,6 +12,11 @@ body{
     overflow:hidden;
 }
 
+
+a{
+    text-decoration:none;
+    color:blue;
+}
 ul{
     margin:0;
     padding:0;
